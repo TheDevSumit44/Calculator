@@ -197,20 +197,6 @@ Building this calculator helped me understand:
 
 ---
 
-## 🎨 Screenshots
-
-<div align="center">
-
-### Main Interface
-![Calculator](https://via.placeholder.com/600x400?text=Calculator+Interface)
-
-### Mobile View
-![Mobile](https://via.placeholder.com/300x500?text=Mobile+Responsive)
-
-</div>
-
----
-
 ## 🤝 Contributing
 
 Improvements and suggestions welcome!
