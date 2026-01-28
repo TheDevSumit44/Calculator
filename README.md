@@ -10,7 +10,7 @@
 
 *Clean design • Smooth animations • Full keyboard support*
 
-[Live Demo](#) • [Features](#-features) • [Getting Started](#-getting-started)
+[Live Demo]([#](https://thedevsumit44.github.io/Calculator/)) • [Features](#-features) • [Getting Started](#-getting-started)
 
 </div>
 
@@ -68,7 +68,7 @@ Decimal: . (period)
 
 ## 🚀 Live Demo
 
-Try it here: [Calculator Demo](#)
+Try it here: [Calculator Demo](https://thedevsumit44.github.io/Calculator/)
 
 ---
 
@@ -214,7 +214,7 @@ Improvements and suggestions welcome!
 **Sumit**
 
 - GitHub: [@TheDevSumit44](https://github.com/TheDevSumit44)
-- Project: [JS Calculator](#)
+- Project: [JS Calculator](https://thedevsumit44.github.io/Calculator/)
 
 ---
 
