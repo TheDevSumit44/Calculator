@@ -10,7 +10,7 @@
 
 *Clean design • Smooth animations • Full keyboard support*
 
-[Live Demo]([#-(https://thedevsumit44.github.io/Calculator/)]) • [Features](#-features) • [Getting Started](#-getting-started)
+[Live Demo]([#]) • [Features](#-features) • [Getting Started](#-getting-started)
 
 </div>
 
